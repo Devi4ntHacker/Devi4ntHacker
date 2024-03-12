@@ -8,6 +8,6 @@
 
 <h3 align="center">TryHackMe Badges</h3>
 <p align="center">
-  <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="TryHackMe" width="100">
+  <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="TryHackMe" width="50">
 </p>
 
