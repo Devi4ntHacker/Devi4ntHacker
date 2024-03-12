@@ -8,9 +8,9 @@
 
 <h3 align="center">TryHackMe Badges</h3>
 <p>
-  <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="TryHackMe" width="50">
-  <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="TryHackMe" width="50">
-  <img src="https://assets.tryhackme.com/img/badges/firstfour.svg" alt="TryHackMe" width="50">
-  <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="TryHackMe" width="50">
-  <img src="https://assets.tryhackme.com/img/badges/streak7.svg" alt="TryHackMe" width="50">
+  <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="TryHackMe" width="100">
+  <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="TryHackMe" width="100">
+  <img src="https://assets.tryhackme.com/img/badges/firstfour.svg" alt="TryHackMe" width="100">
+  <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="TryHackMe" width="100">
+  <img src="https://assets.tryhackme.com/img/badges/streak7.svg" alt="TryHackMe" width="100">
 </p>
