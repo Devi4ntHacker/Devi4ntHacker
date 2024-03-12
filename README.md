@@ -6,6 +6,7 @@
   <strong>Penetration Tester | Bug Bounty Hunter</strong>
 </p>
 
+<h3 align="center">TryHackMe Badges</h3>
 <p align="center">
   <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="TryHackMe" width="100">
 </p>
