@@ -5,4 +5,4 @@
 **`Penetration Tester/Bug Bounty Hunter`**
 <h3 align="center">TryHackMe Badges</h3>
 
-![Networking Nerd Badge]([https://www.tryhackme.com/badge/123](https://assets.tryhackme.com/img/badges/networkfundamentals.svg)https://assets.tryhackme.com/img/badges/networkfundamentals.svg)
+![Networking Nerd Badge](https://assets.tryhackme.com/img/badges/networkfundamentals.svg)
