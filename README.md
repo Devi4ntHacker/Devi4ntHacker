@@ -7,6 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="TryHackMe" width="400">
+  <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="TryHackMe" width="100">
 </p>
 
