@@ -6,7 +6,10 @@
   <strong>Penetration Tester | Bug Bounty Hunter</strong>
 </p>
 
-<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Devi4nt.png" alt="TryHackMe">
+<p align="center">
+  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Devi4nt.png" alt="TryHackMe">
+</p>
+
 <h3 align="center">TryHackMe Badges</h3>
 <p>
   <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="TryHackMe" width="100">
