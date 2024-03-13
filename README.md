@@ -8,9 +8,7 @@
 
 <h3 align="center">TryHackMe Badges</h3>
 
-<p align="center">
-  <script src="https://tryhackme.com/badge/1982037"></script>
-</p>
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Devi4nt.png" alt="TryHackMe">
 <p>
   <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="TryHackMe" width="100">
   <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="TryHackMe" width="100">
